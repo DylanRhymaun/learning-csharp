@@ -1,0 +1,15 @@
+C:\Users\rhyma\OneDrive\Documents\GitHub\learning-csharp\bin\Debug\net9.0\helloworld.exe
+C:\Users\rhyma\OneDrive\Documents\GitHub\learning-csharp\bin\Debug\net9.0\helloworld.deps.json
+C:\Users\rhyma\OneDrive\Documents\GitHub\learning-csharp\bin\Debug\net9.0\helloworld.runtimeconfig.json
+C:\Users\rhyma\OneDrive\Documents\GitHub\learning-csharp\bin\Debug\net9.0\helloworld.dll
+C:\Users\rhyma\OneDrive\Documents\GitHub\learning-csharp\bin\Debug\net9.0\helloworld.pdb
+C:\Users\rhyma\OneDrive\Documents\GitHub\learning-csharp\obj\Debug\net9.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhyma\OneDrive\Documents\GitHub\learning-csharp\obj\Debug\net9.0\helloworld.AssemblyInfoInputs.cache
+C:\Users\rhyma\OneDrive\Documents\GitHub\learning-csharp\obj\Debug\net9.0\helloworld.AssemblyInfo.cs
+C:\Users\rhyma\OneDrive\Documents\GitHub\learning-csharp\obj\Debug\net9.0\helloworld.csproj.CoreCompileInputs.cache
+C:\Users\rhyma\OneDrive\Documents\GitHub\learning-csharp\obj\Debug\net9.0\helloworld.sourcelink.json
+C:\Users\rhyma\OneDrive\Documents\GitHub\learning-csharp\obj\Debug\net9.0\helloworld.dll
+C:\Users\rhyma\OneDrive\Documents\GitHub\learning-csharp\obj\Debug\net9.0\refint\helloworld.dll
+C:\Users\rhyma\OneDrive\Documents\GitHub\learning-csharp\obj\Debug\net9.0\helloworld.pdb
+C:\Users\rhyma\OneDrive\Documents\GitHub\learning-csharp\obj\Debug\net9.0\helloworld.genruntimeconfig.cache
+C:\Users\rhyma\OneDrive\Documents\GitHub\learning-csharp\obj\Debug\net9.0\ref\helloworld.dll
