@@ -13,3 +13,18 @@ C:\Users\rhyma\OneDrive\Documents\GitHub\learning-csharp\obj\Debug\net9.0\refint
 C:\Users\rhyma\OneDrive\Documents\GitHub\learning-csharp\obj\Debug\net9.0\helloworld.pdb
 C:\Users\rhyma\OneDrive\Documents\GitHub\learning-csharp\obj\Debug\net9.0\helloworld.genruntimeconfig.cache
 C:\Users\rhyma\OneDrive\Documents\GitHub\learning-csharp\obj\Debug\net9.0\ref\helloworld.dll
+C:\Users\drhymaun\OneDrive - UVM Larner College of Medicine\Documents\GitHub\learning-csharp\bin\Debug\net9.0\helloworld.exe
+C:\Users\drhymaun\OneDrive - UVM Larner College of Medicine\Documents\GitHub\learning-csharp\bin\Debug\net9.0\helloworld.deps.json
+C:\Users\drhymaun\OneDrive - UVM Larner College of Medicine\Documents\GitHub\learning-csharp\bin\Debug\net9.0\helloworld.runtimeconfig.json
+C:\Users\drhymaun\OneDrive - UVM Larner College of Medicine\Documents\GitHub\learning-csharp\bin\Debug\net9.0\helloworld.dll
+C:\Users\drhymaun\OneDrive - UVM Larner College of Medicine\Documents\GitHub\learning-csharp\bin\Debug\net9.0\helloworld.pdb
+C:\Users\drhymaun\OneDrive - UVM Larner College of Medicine\Documents\GitHub\learning-csharp\obj\Debug\net9.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drhymaun\OneDrive - UVM Larner College of Medicine\Documents\GitHub\learning-csharp\obj\Debug\net9.0\helloworld.AssemblyInfoInputs.cache
+C:\Users\drhymaun\OneDrive - UVM Larner College of Medicine\Documents\GitHub\learning-csharp\obj\Debug\net9.0\helloworld.AssemblyInfo.cs
+C:\Users\drhymaun\OneDrive - UVM Larner College of Medicine\Documents\GitHub\learning-csharp\obj\Debug\net9.0\helloworld.csproj.CoreCompileInputs.cache
+C:\Users\drhymaun\OneDrive - UVM Larner College of Medicine\Documents\GitHub\learning-csharp\obj\Debug\net9.0\helloworld.sourcelink.json
+C:\Users\drhymaun\OneDrive - UVM Larner College of Medicine\Documents\GitHub\learning-csharp\obj\Debug\net9.0\helloworld.dll
+C:\Users\drhymaun\OneDrive - UVM Larner College of Medicine\Documents\GitHub\learning-csharp\obj\Debug\net9.0\refint\helloworld.dll
+C:\Users\drhymaun\OneDrive - UVM Larner College of Medicine\Documents\GitHub\learning-csharp\obj\Debug\net9.0\helloworld.pdb
+C:\Users\drhymaun\OneDrive - UVM Larner College of Medicine\Documents\GitHub\learning-csharp\obj\Debug\net9.0\helloworld.genruntimeconfig.cache
+C:\Users\drhymaun\OneDrive - UVM Larner College of Medicine\Documents\GitHub\learning-csharp\obj\Debug\net9.0\ref\helloworld.dll

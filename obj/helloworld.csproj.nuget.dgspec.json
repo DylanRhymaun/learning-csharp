@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rhyma\\OneDrive\\Documents\\GitHub\\learning-csharp\\helloworld.csproj": {}
+    "C:\\Users\\drhymaun\\OneDrive - UVM Larner College of Medicine\\Documents\\GitHub\\learning-csharp\\helloworld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rhyma\\OneDrive\\Documents\\GitHub\\learning-csharp\\helloworld.csproj": {
+    "C:\\Users\\drhymaun\\OneDrive - UVM Larner College of Medicine\\Documents\\GitHub\\learning-csharp\\helloworld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rhyma\\OneDrive\\Documents\\GitHub\\learning-csharp\\helloworld.csproj",
+        "projectUniqueName": "C:\\Users\\drhymaun\\OneDrive - UVM Larner College of Medicine\\Documents\\GitHub\\learning-csharp\\helloworld.csproj",
         "projectName": "helloworld",
-        "projectPath": "C:\\Users\\rhyma\\OneDrive\\Documents\\GitHub\\learning-csharp\\helloworld.csproj",
-        "packagesPath": "C:\\Users\\rhyma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rhyma\\OneDrive\\Documents\\GitHub\\learning-csharp\\obj\\",
+        "projectPath": "C:\\Users\\drhymaun\\OneDrive - UVM Larner College of Medicine\\Documents\\GitHub\\learning-csharp\\helloworld.csproj",
+        "packagesPath": "C:\\Users\\drhymaun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drhymaun\\OneDrive - UVM Larner College of Medicine\\Documents\\GitHub\\learning-csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rhyma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\drhymaun\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
