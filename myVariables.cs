@@ -1,9 +1,9 @@
 using UnityEngine;
 using TMPro;
 
-public class helloworld : MonoBehaviour
+public class myVariables : MonoBehaviour
 {
-
+    private int health = 100;
     public string firstName;
     public string lastName;
     private TextMeshProUGUI textMeshPro;
